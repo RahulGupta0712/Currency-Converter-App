@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">CURRENCY CONVERTER</string>
+    <string name="amount">Amount</string>
+    <string name="_0">0</string>
+    <string name="show">Show</string>
+    <string name="from">Select the currency you want to convert from</string>
+    <string name="to">Select the currency you want to convert to</string>
+    <string name="splash_screen">splash screen</string>
+</resources>
